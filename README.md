@@ -1,1 +1,1 @@
-bruh
+Fullstack dev @ `codebois.dev`
