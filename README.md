@@ -23,8 +23,8 @@ Here are some of the technologies and programming languages I'm well-versed in:
 
 Here are a few projects I've been working on:
 
-1. [Statboi](https://statboi.xyz): A discord bot collecting statistics from servers.
-2. [Librus-Scraper](https://github.com/pingwiniu/librus-scraper): A node.js, puppeteer-based scraper to get data off synergia.librus.pl in a simple way (as images).
+1. [statboi](https://statboi.xyz): A discord bot collecting statistics from servers.
+2. [wzpn-api](https://github.com/pingwiniu/wzpn-api): A php based scraper (yes those exist...) meant to pull data from wielkopolskizpn.pl, since there is currently no service for that.
 
 Feel free to explore these projects and provide feedback. Your insights are valuable to me!
 
