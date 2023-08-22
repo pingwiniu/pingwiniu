@@ -30,7 +30,7 @@ Feel free to explore these projects and provide feedback. Your insights are valu
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pingwiniu&show_icons=true&count_private=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pingwiniu&show_icons=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pingwiniu&layout=compact)
 
 
