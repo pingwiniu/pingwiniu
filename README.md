@@ -36,6 +36,7 @@ Feel free to explore these projects and provide feedback. Your insights are valu
 
 - 📫 Reach me at [pingwinek@codebois.dev](mailto:pingwinek@codebois.dev)
 - 🌐 Check out codebois: [www.codebois.dev](https://www.codebois.dev)
+- 💼 Connect with me on [LinkedIn]((https://www.linkedin.com/in/julian-zientkowski/)
 
 Thanks for stopping by and happy coding!
 
