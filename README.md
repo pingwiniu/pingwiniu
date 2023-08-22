@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Pingwiniu, a passionate Full Stack Developer a
 
 ## About Me
 
-- 💻 Full Stack Developer at [CodeBois.dev](https://www.codebois.dev)
+- 💻 Full Stack Developer at [codebois.dev](https://www.codebois.dev)
 - 🚀 Passionate about crafting elegant solutions to complex problems
 - 🌐 Creating web experiences that leave a positive impact
 - 🌱 Lifelong learner, always eager to explore new technologies
@@ -13,31 +13,29 @@ Welcome to my GitHub profile! I'm Pingwiniu, a passionate Full Stack Developer a
 
 Here are some of the technologies and programming languages I'm well-versed in:
 
-- **Frontend**: HTML, CSS, JavaScript, React, Vue.js
-- **Backend**: Node.js, Python (Django, Flask)
-- **Database**: MySQL, MongoDB, PostgreSQL
-- **Tools**: Git, VS Code, Docker
-- **Others**: RESTful APIs, GraphQL, Webpack
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Backend**: PHP, Node.js, Python (Django, Flask)
+- **Database**: MySQL, MongoDB
+- **Tools**: Git, VS Code
+- **Others**: RESTful APIs
 
 ## Projects
 
 Here are a few projects I've been working on:
 
-1. [Project X](link-to-project-x): A web application that does something cool.
-2. [Project Y](link-to-project-y): A mobile app that solves a particular problem.
-3. [Project Z](link-to-project-z): An e-commerce platform built with React and Node.js.
+1. [Statboi](https://statboi.xyz): A discord bot collecting statistics from servers.
+2. [Librus-Scraper](https://github.com/pingwiniu/librus-scraper): A node.js, puppeteer-based scraper to get data off synergia.librus.pl in a simple way (as images).
 
 Feel free to explore these projects and provide feedback. Your insights are valuable to me!
 
 ## GitHub Stats
 
-![Pingwiniu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pingwiniu&show_icons=true&count_private=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pingwiniu&show_icons=true&count_private=true&theme=dark)
 
 ## Let's Connect
 
-- 📫 Reach me at [your.email@example.com](mailto:your.email@example.com)
-- 💬 Let's have a chat on [Twitter](https://twitter.com/yourtwitterhandle)
-- 🌐 Check out my personal website: [www.pingwiniu.dev](https://www.pingwiniu.dev)
+- 📫 Reach me at [pingwinek@codebois.dev](mailto:pingwinek@codebois.dev)
+- 🌐 Check out codebois: [www.codebois.dev](https://www.codebois.dev)
 
 Thanks for stopping by and happy coding!
 
