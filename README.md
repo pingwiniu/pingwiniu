@@ -1,6 +1,6 @@
 # Hello, fellow developers! 👋
 
-Welcome to my GitHub profile! I'm Pingwiniu, a passionate Full Stack Developer at [codebois.dev](https://www.codebois.dev). I love building innovative and user-friendly web applications that make a difference. Feel free to explore my repositories and projects to see what I've been up to. If you have any questions, suggestions, or collaboration ideas, don't hesitate to reach out.
+Welcome to my GitHub profile! I'm Pingwiniu, a passionate Full Stack Developer at [codebois.dev](https://www.codebois.dev). I love building innovative and user-friendly web applications that make a difference. Feel free to explore my repositories and projects to see what I've been up to. If you have any questions, suggestions, or collaboration ideas, don't hesitate to reach out. ![](https://komarev.com/ghpvc/?username=your-github-username&color=grey)
 
 ## About Me
 
