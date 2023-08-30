@@ -36,7 +36,7 @@ Feel free to explore these projects and provide feedback. Your insights are valu
 
 ## Let's Connect
 
-- 📫 Reach me at [julianzkw1@gmail.com](mailto:julianzkw1@gmail.com)
+- 📫 Reach me at [julian.zientkowski@gmail.com](mailto:julian.zientkowski@gmail.com)
 - 🌐 Check out codebois: [www.codebois.dev](https://www.codebois.dev)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/julian-zientkowski/)
 
