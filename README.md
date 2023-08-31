@@ -24,7 +24,7 @@ Here are some of the technologies and programming languages I'm well-versed in:
 Here are a few projects I've been working on:
 
 1. [statboi.xyz](https://statboi.xyz): A discord bot collecting statistics from servers.
-2. [dashboard.statboi.xyz](https://dash.statboi.xyz): A php based dashboard for statboi.
+2. [dash.statboi.xyz](https://dash.statboi.xyz): A php based dashboard for statboi.
 3. [wzpn-api](https://github.com/pingwiniu/wzpn-api): A php based scraper meant to pull data from wielkopolskizpn.pl, since they don't provide a public api.
 4. [pingwinek.bio](https://pingwinek.bio): My about me page.
 5. [node-auth](https://github.com/pingwiniu/node-auth): An auth system in node.js with JWT support.
