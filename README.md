@@ -26,7 +26,7 @@ Here are some of the technologies and programming languages I'm well-versed in:
 
 ## Let's Connect
 
-- 📫 Reach me at [julian.zientkowski@gmail.com](mailto:julian.zientkowski@gmail.com)
+- 📫 Reach me at [julian@pingwinek.bio](mailto:julian@pingwinek.bio)
 - 🌐 Check out my bio page: [www.pingwinek.bio](https://www.pingwinek.bio)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/julian-zientkowski/)
 - ✨ Take a look at my skills on [Codepen.io](https://codepen.io/pingwinek_spk)
