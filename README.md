@@ -1,6 +1,6 @@
-# Hello, fellow developers! 👋
+# Welcome 👋
 
-Welcome to my GitHub profile! I'm Pingwinek, a passionate Full Stack Developer. I love building innovative and user-friendly web applications that make a difference. Feel free to explore my repositories and projects to see what I've been up to. If you have any questions, suggestions, or collaboration ideas, don't hesitate to reach out.
+I'm Julian, a passionate Full Stack Developer. I love building innovative and user-friendly web applications that make a difference. Feel free to explore my repositories and projects to see what I've been up to. If you have any questions, suggestions, or collaboration ideas, don't hesitate to reach out.
 
 ## Stats
 
