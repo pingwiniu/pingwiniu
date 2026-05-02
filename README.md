@@ -5,7 +5,7 @@
 <h3>co-founder, ai tooling, rust + tauri + svelte</h3>
 
 <p>
-  building <strong><a href="https://hanassh.com/">Hana</a></strong> - an AI-native SSH client for teams &nbsp;·&nbsp;
+  building <strong><a href="https://hanassh.com/">Hana</a></strong> - an AI-native SSH client for teams,
   based in <strong>Poznań, PL</strong>
 </p>
 
