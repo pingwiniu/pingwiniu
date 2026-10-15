@@ -2,13 +2,6 @@
 
 <h2>Julian Zientkowski</h2>
 
-<h3>co-founder, ai tooling, rust + tauri + svelte</h3>
-
-<p>
-  building <strong><a href="https://hanassh.com/">Hana</a></strong> - an AI-native SSH client for teams,
-  based in <strong>Poznań, PL</strong>
-</p>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-zientkowski/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/julian_zientkowski/)
 
